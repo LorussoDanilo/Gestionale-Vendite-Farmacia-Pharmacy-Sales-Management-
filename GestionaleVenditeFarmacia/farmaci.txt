@@ -1,0 +1,5 @@
+Oki 12/12/2020 12/12/2021 Antinfiammatorio 12
+Neurofen 20/04/2021 12/12/2022 Antinfiammatorio 10
+Ansiolev 28/03/2020 30/09/2021 Antidepressivo 20
+MomendolAct 11/05/2021 11/05/2023 Antidepressivo 11,5
+OkiTask 11/05/2020 11/05/2022 Antinfiammatorio 11,05
